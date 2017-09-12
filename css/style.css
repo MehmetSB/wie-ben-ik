@@ -1,18 +1,56 @@
+
 p {
 color: black;
 }
 
 h1 {
-color: #4d4d4d;
+color: black;
 }
 
 h2 {
-color: #4d4d4d;
+color: black;
 }
 
 body {
     background-color: #cccccc;
+    background-image: url("../afbeeldingen/bg2.png");
+    background-repeat: no-repeat;
+      background-size: cover;
 }
+
+
+section#vooropleidingen{
+width: 620px;
+}
+
+section{
+width: 500px;
+box-shadow: 10px 10px 5px #888888;
+}
+
+section#werkervaring{
+width: 560px;
+
+}
+
+
+
+section#spotify
+{
+  width: 400px;
+height: 713px;
+}
+
+.social{
+  margin-top: 100px;
+  bottom: 0;
+  clear:both;
+    position: absolute;
+margin: auto;
+left:45%;
+}
+
+
 
 .topnav {
     background-color: #333;
